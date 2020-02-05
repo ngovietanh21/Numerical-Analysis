@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{94C4CF24-4055-4219-B11E-20FE37F983EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoiSuyNguoc/Moc_Cach_Deu.cs">
+    <Files>
+      <File FileName="NoiSuyNguoc/Moc_Cach_Deu.cs" Line="1" Column="1" />
+      <File FileName="NoiSuyNguoc/HornerPn.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoiSuyNguoc" expanded="True">
+            <Node name="NoiSuyNguoc" expanded="True">
+              <Node name="Moc_Cach_Deu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="NoiSuyNguoc" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NoiSuyNguoc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/bin/Debug/Lagrange.exe
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/bin/Debug/Lagrange.pdb
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.csprojAssemblyReference.cache
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.csproj.CoreCompileInputs.cache
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.exe
+/Users/ngodaiduong/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.pdb
+/Users/VietAnh/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.exe
+/Users/VietAnh/Projects/Lagrange/Lagrange/obj/Debug/Lagrange.pdb
+/Users/VietAnh/Projects/Lagrange/Lagrange/bin/Debug/Lagrange.exe
+/Users/VietAnh/Projects/Lagrange/Lagrange/bin/Debug/Lagrange.pdb

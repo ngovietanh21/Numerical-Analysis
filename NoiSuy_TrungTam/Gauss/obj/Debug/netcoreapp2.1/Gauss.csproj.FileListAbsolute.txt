@@ -1,0 +1,10 @@
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/Debug/netcoreapp2.1/Gauss.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/Debug/netcoreapp2.1/Gauss.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/Debug/netcoreapp2.1/Gauss.AssemblyInfo.cs
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/bin/Debug/netcoreapp2.1/Gauss.deps.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/bin/Debug/netcoreapp2.1/Gauss.runtimeconfig.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/bin/Debug/netcoreapp2.1/Gauss.runtimeconfig.dev.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/bin/Debug/netcoreapp2.1/Gauss.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/bin/Debug/netcoreapp2.1/Gauss.pdb
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/Debug/netcoreapp2.1/Gauss.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/Debug/netcoreapp2.1/Gauss.pdb

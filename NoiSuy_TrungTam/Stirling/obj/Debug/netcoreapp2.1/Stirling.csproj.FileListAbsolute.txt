@@ -1,0 +1,10 @@
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/bin/Debug/netcoreapp2.1/Stirling.deps.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/bin/Debug/netcoreapp2.1/Stirling.runtimeconfig.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/bin/Debug/netcoreapp2.1/Stirling.runtimeconfig.dev.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/bin/Debug/netcoreapp2.1/Stirling.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/bin/Debug/netcoreapp2.1/Stirling.pdb
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/obj/Debug/netcoreapp2.1/Stirling.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/obj/Debug/netcoreapp2.1/Stirling.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/obj/Debug/netcoreapp2.1/Stirling.AssemblyInfo.cs
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/obj/Debug/netcoreapp2.1/Stirling.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Stirling/obj/Debug/netcoreapp2.1/Stirling.pdb

@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.AssemblyInfo.cs
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/bin/Debug/netcoreapp2.1/NoiSuy_Newton.deps.json
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/bin/Debug/netcoreapp2.1/NoiSuy_Newton.runtimeconfig.json
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/bin/Debug/netcoreapp2.1/NoiSuy_Newton.runtimeconfig.dev.json
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/bin/Debug/netcoreapp2.1/NoiSuy_Newton.dll
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/bin/Debug/netcoreapp2.1/NoiSuy_Newton.pdb
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.dll
+/Users/VietAnh/Projects/NoiSuy_Newton/NoiSuy_Newton/obj/Debug/netcoreapp2.1/NoiSuy_Newton.pdb

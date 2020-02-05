@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8D8A366F-3D41-4AFE-959C-734E5DE137DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataProcess/DataProcess.cs">
+    <Files>
+      <File FileName="DataProcess/DataProcess.cs" Line="61" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataProcess" expanded="True">
+            <Node name="DataProcess" expanded="True">
+              <Node name="DataProcess.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataProcess FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

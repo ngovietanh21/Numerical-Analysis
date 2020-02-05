@@ -1,0 +1,5 @@
+/Users/VietAnh/Projects/NoiSuyNguoc/NoiSuyNguoc/bin/Debug/NoiSuyNguoc.exe
+/Users/VietAnh/Projects/NoiSuyNguoc/NoiSuyNguoc/bin/Debug/NoiSuyNguoc.pdb
+/Users/VietAnh/Projects/NoiSuyNguoc/NoiSuyNguoc/obj/Debug/NoiSuyNguoc.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/NoiSuyNguoc/NoiSuyNguoc/obj/Debug/NoiSuyNguoc.exe
+/Users/VietAnh/Projects/NoiSuyNguoc/NoiSuyNguoc/obj/Debug/NoiSuyNguoc.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Moc_bat_ky/1.0.0": {
+        "runtime": {
+          "Moc_bat_ky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Moc_bat_ky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

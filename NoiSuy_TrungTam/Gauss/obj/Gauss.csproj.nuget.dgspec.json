@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/Gauss.csproj": {}
+  },
+  "projects": {
+    "/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/Gauss.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/Gauss.csproj",
+        "projectName": "Gauss",
+        "projectPath": "/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/Gauss.csproj",
+        "packagesPath": "/Users/VietAnh/.nuget/packages/",
+        "outputPath": "/Users/VietAnh/Projects/NoiSuy_TrungTam/Gauss/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/VietAnh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{36E71ACF-0458-4F32-8E80-6E6AF7E6A290}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lagrange/Lagrange.cs">
+    <Files>
+      <File FileName="Lagrange/Lagrange.cs" Line="122" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lagrange" expanded="True">
+            <Node name="Lagrange" expanded="True">
+              <Node name="Lagrange.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Lagrange" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Lagrange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/bin/Debug/netcoreapp2.1/Bessel.deps.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/bin/Debug/netcoreapp2.1/Bessel.runtimeconfig.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/bin/Debug/netcoreapp2.1/Bessel.runtimeconfig.dev.json
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/bin/Debug/netcoreapp2.1/Bessel.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/bin/Debug/netcoreapp2.1/Bessel.pdb
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/obj/Debug/netcoreapp2.1/Bessel.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/obj/Debug/netcoreapp2.1/Bessel.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/obj/Debug/netcoreapp2.1/Bessel.AssemblyInfo.cs
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/obj/Debug/netcoreapp2.1/Bessel.dll
+/Users/VietAnh/Projects/NoiSuy_TrungTam/Bessel/obj/Debug/netcoreapp2.1/Bessel.pdb

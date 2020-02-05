@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5BCF5168-3FC1-4E7C-B5CA-3DFEE87BCE3D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Moc__bat__ky PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bat_ky/File_Output/Saiphan.csv">
+    <Files>
+      <File FileName="Bat_ky/Moc_bat_ky.cs" Line="88" Column="1" />
+      <File FileName="Bat_ky/ExportData.cs" Line="23" Column="47" />
+      <File FileName="Bat_ky/File_Output/Dathuc.csv" Line="1" Column="1" />
+      <File FileName="Bat_ky/File_Output/Saiphan.csv" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoiSuy_Newton" expanded="True">
+            <Node name="Moc_bat_ky" expanded="True">
+              <Node name="File_Output" expanded="True">
+                <Node name="Saiphan.csv" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Moc_cach_deu" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="NoiSuy_Newton" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Moc__cach__deu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
