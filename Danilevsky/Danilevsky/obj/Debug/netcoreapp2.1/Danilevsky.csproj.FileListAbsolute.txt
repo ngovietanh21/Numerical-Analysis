@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/bin/Debug/netcoreapp2.1/Danilevsky.deps.json
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/bin/Debug/netcoreapp2.1/Danilevsky.runtimeconfig.json
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/bin/Debug/netcoreapp2.1/Danilevsky.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/bin/Debug/netcoreapp2.1/Danilevsky.dll
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/bin/Debug/netcoreapp2.1/Danilevsky.pdb
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.AssemblyInfo.cs
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.dll
+/Users/VietAnh/Projects/Danilevsky/Danilevsky/obj/Debug/netcoreapp2.1/Danilevsky.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A29C3EED-DD92-45EF-9F49-EE0530A03800}|Default">
+  <MonoDevelop.Ide.ItemProperties.VienQuanh PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VienQuanh/VIenQuanh.cs">
+    <Files>
+      <File FileName="VienQuanh/VIenQuanh.cs" Line="57" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VienQuanh" expanded="True">
+            <Node name="VienQuanh" expanded="True">
+              <Node name="VIenQuanh.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

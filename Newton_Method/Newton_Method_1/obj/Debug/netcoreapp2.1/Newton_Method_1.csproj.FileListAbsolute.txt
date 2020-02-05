@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/bin/Debug/netcoreapp2.1/Newton_Method_1.deps.json
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/bin/Debug/netcoreapp2.1/Newton_Method_1.runtimeconfig.json
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/bin/Debug/netcoreapp2.1/Newton_Method_1.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/bin/Debug/netcoreapp2.1/Newton_Method_1.dll
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/bin/Debug/netcoreapp2.1/Newton_Method_1.pdb
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.AssemblyInfo.cs
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.dll
+/Users/VietAnh/Projects/Newton_Method_1/Newton_Method_1/obj/Debug/netcoreapp2.1/Newton_Method_1.pdb

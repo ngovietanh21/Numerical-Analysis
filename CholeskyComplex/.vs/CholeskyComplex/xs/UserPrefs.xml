@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5E319E94-245B-4B9D-84D2-45B584ACCE95}|Default">
+  <MonoDevelop.Ide.ItemProperties.CholeskyComplex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CholeskyComplex/CholeskyComplex.cs">
+    <Files>
+      <File FileName="CholeskyComplex/CholeskyComplex.cs" Line="76" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CholeskyComplex" expanded="True">
+            <Node name="CholeskyComplex" expanded="True">
+              <Node name="CholeskyComplex.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

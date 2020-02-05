@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/bin/Debug/netcoreapp2.1/Secant_Method.deps.json
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/bin/Debug/netcoreapp2.1/Secant_Method.runtimeconfig.json
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/bin/Debug/netcoreapp2.1/Secant_Method.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/bin/Debug/netcoreapp2.1/Secant_Method.dll
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/bin/Debug/netcoreapp2.1/Secant_Method.pdb
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.AssemblyInfo.cs
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.dll
+/Users/VietAnh/Projects/Secant_Method/Secant_Method/obj/Debug/netcoreapp2.1/Secant_Method.pdb

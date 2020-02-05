@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B8D877AE-68FE-4285-A30A-B2DEEFC2041A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Newton_Method_1/Newton_Method_1.cs">
+    <Files>
+      <File FileName="Newton_Method_1/Newton_Method_1.cs" Line="16" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Newton_Method_1" expanded="True">
+            <Node name="Newton_Method_1" expanded="True">
+              <Node name="Newton_Method_1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Newton__Method__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

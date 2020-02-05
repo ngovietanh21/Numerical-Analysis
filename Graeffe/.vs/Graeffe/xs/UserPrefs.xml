@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0A95DB7F-99DB-432F-BEFF-2C641F71B125}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Graeffe/Graeffe.cs">
+    <Files>
+      <File FileName="Graeffe/Graeffe.cs" Line="45" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Graeffe" expanded="True">
+            <Node name="Graeffe" expanded="True">
+              <Node name="Graeffe.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Graeffe" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Graeffe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

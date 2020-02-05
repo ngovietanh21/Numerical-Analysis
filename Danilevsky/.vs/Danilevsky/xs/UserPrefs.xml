@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CB08EC70-62E7-4153-8181-7478EA7A5E50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Danilevsky/Danilevsky.cs">
+    <Files>
+      <File FileName="Danilevsky/Danilevsky.cs" Line="222" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Danilevsky" expanded="True">
+            <Node name="Danilevsky" expanded="True">
+              <Node name="Danilevsky.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Danilevsky PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

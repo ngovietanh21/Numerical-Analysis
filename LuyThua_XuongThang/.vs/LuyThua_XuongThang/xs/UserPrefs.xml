@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B1770B49-C720-4402-AFF1-867F8AE35731}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LuyThua_XuongThang/LuyThua_XuongThang.cs">
+    <Files>
+      <File FileName="LuyThua_XuongThang/LuyThua_XuongThang.cs" Line="94" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LuyThua_XuongThang" expanded="True">
+            <Node name="LuyThua_XuongThang" expanded="True">
+              <Node name="LuyThua_XuongThang.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LuyThua__XuongThang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

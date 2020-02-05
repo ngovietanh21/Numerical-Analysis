@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Linear_System/Linear_System/bin/Debug/netcoreapp2.1/Linear_System.deps.json
+/Users/VietAnh/Projects/Linear_System/Linear_System/bin/Debug/netcoreapp2.1/Linear_System.runtimeconfig.json
+/Users/VietAnh/Projects/Linear_System/Linear_System/bin/Debug/netcoreapp2.1/Linear_System.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Linear_System/Linear_System/bin/Debug/netcoreapp2.1/Linear_System.dll
+/Users/VietAnh/Projects/Linear_System/Linear_System/bin/Debug/netcoreapp2.1/Linear_System.pdb
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.AssemblyInfo.cs
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.dll
+/Users/VietAnh/Projects/Linear_System/Linear_System/obj/Debug/netcoreapp2.1/Linear_System.pdb

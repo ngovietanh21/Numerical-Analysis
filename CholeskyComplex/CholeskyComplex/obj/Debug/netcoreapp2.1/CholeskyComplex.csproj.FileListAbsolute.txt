@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.AssemblyInfo.cs
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/bin/Debug/netcoreapp2.1/CholeskyComplex.deps.json
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/bin/Debug/netcoreapp2.1/CholeskyComplex.runtimeconfig.json
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/bin/Debug/netcoreapp2.1/CholeskyComplex.runtimeconfig.dev.json
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/bin/Debug/netcoreapp2.1/CholeskyComplex.dll
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/bin/Debug/netcoreapp2.1/CholeskyComplex.pdb
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.dll
+/Users/VietAnh/Projects/CholeskyComplex/CholeskyComplex/obj/Debug/netcoreapp2.1/CholeskyComplex.pdb

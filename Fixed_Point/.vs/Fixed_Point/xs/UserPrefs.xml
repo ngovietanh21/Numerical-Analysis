@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{076373FD-8CC1-4541-89BC-D7242AE822FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fixed__Point PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fixed_Point/Fixed_Point.cs">
+    <Files>
+      <File FileName="Fixed_Point/Fixed_Point.cs" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fixed_Point" expanded="True">
+            <Node name="Fixed_Point" expanded="True">
+              <Node name="Fixed_Point.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

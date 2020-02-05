@@ -1,0 +1,22 @@
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.AssemblyInfo.cs
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.deps.json
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.runtimeconfig.json
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.dll
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.pdb
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.dll
+/Users/VietAnh/Projects/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.pdb
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.deps.json
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.runtimeconfig.json
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.dll
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/bin/Debug/netcoreapp2.1/Gauss_GaussJordan.pdb
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.AssemblyInfo.cs
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.dll
+/Users/VietAnh/Projects/Numerical Analysis/Gauss_GaussJordan/Gauss_GaussJordan/obj/Debug/netcoreapp2.1/Gauss_GaussJordan.pdb

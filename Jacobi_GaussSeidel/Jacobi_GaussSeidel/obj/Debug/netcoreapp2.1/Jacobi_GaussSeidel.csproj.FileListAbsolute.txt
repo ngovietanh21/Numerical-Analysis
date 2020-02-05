@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/bin/Debug/netcoreapp2.1/Jacobi_GaussSeidel.deps.json
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/bin/Debug/netcoreapp2.1/Jacobi_GaussSeidel.runtimeconfig.json
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/bin/Debug/netcoreapp2.1/Jacobi_GaussSeidel.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/bin/Debug/netcoreapp2.1/Jacobi_GaussSeidel.dll
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/bin/Debug/netcoreapp2.1/Jacobi_GaussSeidel.pdb
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.AssemblyInfo.cs
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.dll
+/Users/VietAnh/Projects/Jacobi_GaussSeidel/Jacobi_GaussSeidel/obj/Debug/netcoreapp2.1/Jacobi_GaussSeidel.pdb

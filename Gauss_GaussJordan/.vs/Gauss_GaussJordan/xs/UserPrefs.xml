@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{64557896-B2C9-4AB3-BAD5-9FB1A05E2485}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gauss__GaussJordan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gauss_GaussJordan/Gauss_GaussJordan.cs">
+    <Files>
+      <File FileName="Gauss_GaussJordan/Gauss_GaussJordan.cs" Line="161" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gauss_GaussJordan" expanded="True">
+            <Node name="Gauss_GaussJordan" expanded="True">
+              <Node name="Gauss_GaussJordan.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

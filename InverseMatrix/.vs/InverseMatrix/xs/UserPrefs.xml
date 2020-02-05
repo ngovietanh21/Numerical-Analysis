@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7A08EA66-D132-447E-92FD-691CD8159AFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.InverseMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InverseMatrix/InverseMatrix.cs">
+    <Files>
+      <File FileName="InverseMatrix/InverseMatrix.cs" Line="14" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InverseMatrix" expanded="True">
+            <Node name="InverseMatrix" expanded="True">
+              <Node name="InverseMatrix.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

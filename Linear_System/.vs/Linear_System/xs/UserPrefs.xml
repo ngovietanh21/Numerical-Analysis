@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{933BF427-3C93-48D7-B1E1-720C6A482E04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linear_System/Linear_System.cs">
+    <Files>
+      <File FileName="Linear_System/Linear_System.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Linear_System" expanded="True">
+            <Node name="Linear_System" expanded="True">
+              <Node name="Linear_System.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Linear__System PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/bin/Debug/netcoreapp2.1/VienQuanh.deps.json
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/bin/Debug/netcoreapp2.1/VienQuanh.runtimeconfig.json
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/bin/Debug/netcoreapp2.1/VienQuanh.runtimeconfig.dev.json
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/bin/Debug/netcoreapp2.1/VienQuanh.dll
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/bin/Debug/netcoreapp2.1/VienQuanh.pdb
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.AssemblyInfo.cs
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.dll
+/Users/VietAnh/Projects/VienQuanh/VienQuanh/obj/Debug/netcoreapp2.1/VienQuanh.pdb

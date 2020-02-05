@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6E006910-174A-4FE9-A8EA-1B4761728EAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.CholeskyInverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CholeskyInverse/CholeskyInverse.cs">
+    <Files>
+      <File FileName="CholeskyInverse/CholeskyInverse.cs" Line="99" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CholeskyInverse" expanded="True">
+            <Node name="CholeskyInverse" expanded="True">
+              <Node name="CholeskyInverse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

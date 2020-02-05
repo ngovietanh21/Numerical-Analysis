@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.AssemblyInfo.cs
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/bin/Debug/netcoreapp2.1/LuyThua_XuongThang.deps.json
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/bin/Debug/netcoreapp2.1/LuyThua_XuongThang.runtimeconfig.json
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/bin/Debug/netcoreapp2.1/LuyThua_XuongThang.runtimeconfig.dev.json
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/bin/Debug/netcoreapp2.1/LuyThua_XuongThang.dll
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/bin/Debug/netcoreapp2.1/LuyThua_XuongThang.pdb
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.dll
+/Users/VietAnh/Projects/LuyThua_XuongThang/LuyThua_XuongThang/obj/Debug/netcoreapp2.1/LuyThua_XuongThang.pdb

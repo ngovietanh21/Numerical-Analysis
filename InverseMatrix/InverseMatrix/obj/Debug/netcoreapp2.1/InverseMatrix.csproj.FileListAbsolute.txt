@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.AssemblyInfo.cs
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/bin/Debug/netcoreapp2.1/InverseMatrix.deps.json
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/bin/Debug/netcoreapp2.1/InverseMatrix.runtimeconfig.json
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/bin/Debug/netcoreapp2.1/InverseMatrix.runtimeconfig.dev.json
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/bin/Debug/netcoreapp2.1/InverseMatrix.dll
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/bin/Debug/netcoreapp2.1/InverseMatrix.pdb
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.dll
+/Users/VietAnh/Projects/InverseMatrix/InverseMatrix/obj/Debug/netcoreapp2.1/InverseMatrix.pdb

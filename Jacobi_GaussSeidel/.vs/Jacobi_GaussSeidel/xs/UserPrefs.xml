@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5D673DDC-D846-47EB-8EF0-EBB5B3B95207}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jacobi__GaussSeidel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jacobi_GaussSeidel/Jacobi_GaussSeldel.cs">
+    <Files>
+      <File FileName="Jacobi_GaussSeidel/Jacobi_GaussSeldel.cs" Line="209" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jacobi_GaussSeidel" expanded="True">
+            <Node name="Jacobi_GaussSeidel" expanded="True">
+              <Node name="Jacobi_GaussSeldel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

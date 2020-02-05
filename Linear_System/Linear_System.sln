@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear_System", "Linear_System\Linear_System.csproj", "{933BF427-3C93-48D7-B1E1-720C6A482E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933BF427-3C93-48D7-B1E1-720C6A482E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933BF427-3C93-48D7-B1E1-720C6A482E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933BF427-3C93-48D7-B1E1-720C6A482E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933BF427-3C93-48D7-B1E1-720C6A482E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

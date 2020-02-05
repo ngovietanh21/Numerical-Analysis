@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.AssemblyInfo.cs
+/Users/VietAnh/Projects/Graeffe/Graeffe/bin/Debug/netcoreapp2.1/Graeffe.deps.json
+/Users/VietAnh/Projects/Graeffe/Graeffe/bin/Debug/netcoreapp2.1/Graeffe.runtimeconfig.json
+/Users/VietAnh/Projects/Graeffe/Graeffe/bin/Debug/netcoreapp2.1/Graeffe.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Graeffe/Graeffe/bin/Debug/netcoreapp2.1/Graeffe.dll
+/Users/VietAnh/Projects/Graeffe/Graeffe/bin/Debug/netcoreapp2.1/Graeffe.pdb
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.dll
+/Users/VietAnh/Projects/Graeffe/Graeffe/obj/Debug/netcoreapp2.1/Graeffe.pdb

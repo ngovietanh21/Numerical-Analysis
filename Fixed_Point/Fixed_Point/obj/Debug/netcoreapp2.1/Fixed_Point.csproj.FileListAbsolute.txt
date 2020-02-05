@@ -1,0 +1,11 @@
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/bin/Debug/netcoreapp2.1/Fixed_Point.deps.json
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/bin/Debug/netcoreapp2.1/Fixed_Point.runtimeconfig.json
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/bin/Debug/netcoreapp2.1/Fixed_Point.runtimeconfig.dev.json
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/bin/Debug/netcoreapp2.1/Fixed_Point.dll
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/bin/Debug/netcoreapp2.1/Fixed_Point.pdb
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.csprojAssemblyReference.cache
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.csproj.CoreCompileInputs.cache
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.AssemblyInfoInputs.cache
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.AssemblyInfo.cs
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.dll
+/Users/VietAnh/Projects/Fixed_Point/Fixed_Point/obj/Debug/netcoreapp2.1/Fixed_Point.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{12EDE940-D96A-4F04-B0C9-C699DF64113A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Secant__Method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Secant_Method/Secant_Method.cs">
+    <Files>
+      <File FileName="Secant_Method/Secant_Method.cs" Line="14" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Secant_Method" expanded="True">
+            <Node name="Secant_Method" expanded="True">
+              <Node name="Secant_Method.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
